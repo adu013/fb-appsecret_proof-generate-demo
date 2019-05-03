@@ -1,0 +1,26 @@
+{
+  "name": "generate_fb_appsecret_proof",
+  "version": "1.0.0",
+  "description": "This is demo to generate facebook appsecret_proof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adu013/fb-appsecret_proof-generate-demo.git"
+  },
+  "keywords": [
+    "facebook;",
+    "appsecret_proof"
+  ],
+  "author": "arindam dutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adu013/fb-appsecret_proof-generate-demo/issues"
+  },
+  "homepage": "https://github.com/adu013/fb-appsecret_proof-generate-demo#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
